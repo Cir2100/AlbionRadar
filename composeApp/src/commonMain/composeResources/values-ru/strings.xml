@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Приложение -->
+    <string name="app_name">Альбион Радар</string>
+    
+    <!-- Элементы интерфейса -->
+    <string name="click_me">Нажми на меня!</string>
+    <string name="compose_label">Compose: %s</string>
+    
+    <!-- Приветствие -->
+    <string name="greeting">Привет, %s!</string>
+    
+    <!-- Выбор сетевого адаптера -->
+    <string name="using_adapter_ip">Используется IP адаптера: %s</string>
+    <string name="adapter_not_found">Адаптер с IP %s не найден</string>
+    <string name="adapter_not_found_select_new">Адаптер с IP %s не найден. Пожалуйста, выберите новый адаптер.</string>
+    <string name="no_device_found">Устройство с IP не найдено: %s</string>
+    <string name="device_not_found">Устройство не найдено: %s</string>
+    <string name="using_ip_from_command_line">Используется IP из командной строки: %s</string>
+    <string name="no_network_interfaces">Сетевые интерфейсы не найдены</string>
+    <string name="select_adapter_prompt">\nПожалуйста, выберите адаптер, используемый для подключения к Интернету:</string>
+    <string name="adapter_list_item">  %1$d. %2$s\t IP адрес: %3$s</string>
+    <string name="enter_adapter_number">Введите номер адаптера: </string>
+    <string name="invalid_input">Неверный ввод, попробуйте снова.</string>
+    <string name="adapter_selected">\nВы выбрали \"%1$s - %2$s\"\n</string>
+    <string name="error_saving_ip">Предупреждение: Ошибка при сохранении IP адреса.</string>
+</resources>

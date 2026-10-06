@@ -1,0 +1,11 @@
+
+©
+
+app_configš*—{
+    "filter": {
+        "showHostilePlayers": false,
+        "showFriendlyPlayers": false,
+        "showMobs": false,
+        "minMobTier": 1
+    }
+}

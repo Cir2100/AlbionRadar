@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application -->
+    <string name="app_name">Albion Radar</string>
+    
+    <!-- UI Elements -->
+    <string name="click_me">Click me!</string>
+    <string name="compose_label">Compose: %s</string>
+    
+    <!-- Greeting -->
+    <string name="greeting">Hello, %s!</string>
+    
+    <!-- Network Adapter Selection -->
+    <string name="using_adapter_ip">Using adapter IP: %s</string>
+    <string name="adapter_not_found">Adapter with IP %s not found</string>
+    <string name="adapter_not_found_select_new">Adapter with IP %s not found. Please select a new adapter.</string>
+    <string name="no_device_found">No device found with IP: %s</string>
+    <string name="device_not_found">Device not found: %s</string>
+    <string name="using_ip_from_command_line">Using IP from command line: %s</string>
+    <string name="no_network_interfaces">No network interfaces found</string>
+    <string name="select_adapter_prompt">\nPlease select the adapter used to connect to the Internet:</string>
+    <string name="adapter_list_item">  %1$d. %2$s\t ip address: %3$s</string>
+    <string name="enter_adapter_number">Enter the adapter number: </string>
+    <string name="invalid_input">Invalid input, please try again.</string>
+    <string name="adapter_selected">\nYou have selected \"%1$s - %2$s\"\n</string>
+    <string name="error_saving_ip">Warning: Error while saving the IP address.</string>
+</resources>
